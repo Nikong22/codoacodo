@@ -1,0 +1,35 @@
+header {
+    background-color:  grey;
+
+}
+
+footer {
+background-color: grey;
+
+ }
+
+section{
+    margin: 10px 40px 20px 220px;
+   
+}
+div{
+display: inline-block;
+}
+.rojo{
+    background-color: red;
+    color:yellow;
+    width: 300px;
+    height: 300px;
+    font-size: 40px;
+    margin: 5px;
+    
+}
+.negro{
+    background-color: black;
+    color: white;
+    width: 300px;
+    height: 300px;
+    font-size: 40px;
+    margin: 5px;
+
+}
